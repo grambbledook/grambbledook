@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Denis. \
+
 Software engineer from Berlin specialising in distributed systems.
 
 I enjoy solving system problems of various kinds as well as low-level algorithmic problems. 
