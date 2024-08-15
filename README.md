@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Denis. \
+I'm Denis. 
 
 Software engineer from Berlin specialising in distributed systems.
 
