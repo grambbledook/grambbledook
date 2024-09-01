@@ -10,5 +10,5 @@ and ability to focus on the task at hand.
 
 #### Current interests:
 - Golang, C++ and low-level programming
-- Networking, Distributed Systems, Identity and Access Management 
+- Networking, IoT, Distributed Systems, Identity and Access Management 
 
