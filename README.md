@@ -10,5 +10,8 @@ and ability to focus on the task at hand.
 
 #### Current interests:
 - Golang, C++ and low-level programming
-- Networking, IoT, Distributed Systems, Identity and Access Management 
+- Networking, Tools, Distributed Systems, Identity and Access Management 
 
+
+#### Latest CV:
+- https://github.com/grambbledook/cv/blob/master/cv.pdf
