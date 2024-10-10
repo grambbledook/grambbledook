@@ -14,6 +14,6 @@ and ability to focus on the task at hand.
 
 
 #### Latest CV:
-For recruiters who have made it to this point, here is the links to my up-to-date cv: 
+For recruiters who have made it to this point, here are the links to my up-to-date cv: 
 - [latest-bs.pdf](https://github.com/grambbledook/cv/blob/master/cv-bs.pdf)  - My latest CV with a touch of BS (Business Specifics).
 - [latest.pdf](https://github.com/grambbledook/cv/blob/master/cv.pdf) - Lean CV with just essentials for those who are not interested in BS. 
